@@ -179,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a span {
   padding: 0 5px 0 7px;
-  color: #fefeff;
+  color: #2b2b2f;
 }
 
 @media (min-width: 992px) {
@@ -580,7 +580,7 @@ section {
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(255, 255, 255, 0.7);
+  background: rgb(11, 90, 165, 0.68);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -904,7 +904,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #2f2e2e;
+  background: #2b2b2f;
 }
 
 .contact .info i {
